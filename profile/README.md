@@ -1,3 +1,8 @@
+## Welcome to the QIMP-Team! 
+<p align="center">
+<img src=https://github.com/QIMP-Team/.github/blob/main/profile/IMG_5948.jpg width="auto">
+</p>
+
 ## Our Vision 
 To enable a wider adoption of fully-quantitative molecular image information in the context of personalized medicine.
 
