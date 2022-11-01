@@ -18,3 +18,11 @@ Advancement of basic correction and quality measures to facilitate the extractio
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/quantitative-imaging-and-medical-physics-team/) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qimp/) 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qimp_team/?igshid=YmMyMTA2M2Y=)
+
+## Our recent research interests
+
+Exploring the landscape of human inter-organ connections.
+
+<p align="center">
+<img src=https://github.com/QIMP-Team/.github/blob/main/profile/DALL·E%202022-10-29%2020.15.22%20-%20Astronaut%20.PNG width="auto">
+</p>
