@@ -19,7 +19,7 @@ Advancement of basic correction and quality measures to facilitate the extractio
 Exploring the landscape of human inter-organ connections.
 
 <p align="center">
-<img src=https://github.com/QIMP-Team/.github/blob/main/profile/DALL·E%202022-10-29%2020.15.22%20-%20Astronaut%20.PNG width="auto">
+<img src=https://github.com/QIMP-Team/.github/blob/main/profile/DALL·E%202022-11-08%2014.59.41%20-%20sky.png width="auto">
 </p>
 
 ## 🤝🏽 Reach us
