@@ -16,7 +16,7 @@ Advancement of basic correction and quality measures to facilitate the extractio
 
 ## 🔬 Our research interests
 
-Exploring the landscape of human inter-organ connections.
+Exploring the landscape of human inter-organ connections using PET.
 
 <p align="center">
 <img src=https://github.com/QIMP-Team/.github/blob/main/profile/DALL·E%202022-11-08%2014.59.41%20-%20sky.png width="auto">
