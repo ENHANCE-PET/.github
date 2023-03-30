@@ -12,6 +12,10 @@ The group comprises of a variety of academic and non-academic experts who are un
 
 Something incredible cool is brewing in Vienna, watch out this space for more.
 
+<p align="center">
+<img src=https://github.com/QIMP-Team/.github/blob/main/profile/danube-surprise.png width="auto">
+</p>
+
 ## 🔭 Our Vision 
 To enable a wider adoption of fully-quantitative molecular image information in the context of personalized medicine.
 
