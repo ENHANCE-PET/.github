@@ -8,6 +8,10 @@
 
 The group comprises of a variety of academic and non-academic experts who are united by the intent to provide scientific support to improving healthcare for patients. We are engaged in applied research that helps to clinically anchor the concept of personalized medicine through the use of multi-modal imaging methods.
 
+## 📢 Announcement
+
+Something incredible cool is brewing in Vienna, watch out this space for more.
+
 ## 🔭 Our Vision 
 To enable a wider adoption of fully-quantitative molecular image information in the context of personalized medicine.
 
