@@ -38,13 +38,14 @@ To get started with ENHANCE, follow these steps:
 
 ## 📅 Timeline
 
-### Published Tools
+### ✅ Published Tools
+
 
 [![MOOSE](https://img.shields.io/badge/MOOSE-Published-9400D3?style=for-the-badge)](https://github.com/ENHANCE-PET/MOOSE)
 [![FALCON](https://img.shields.io/badge/FALCON-Published-9400D3?style=for-the-badge)](https://github.com/ENHANCE-PET/FALCON)
 [![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Published-9400D3?style=for-the-badge)](https://github.com/ENHANCE-PET/nifti2dicom)
 
-### Upcoming Tools
+### 🚧 Upcoming Tools
 
 [![PUMA Q1 2024](https://img.shields.io/badge/PUMA_Q1_2024-Coming_Soon-CCFF00?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
 [![ORCA Q1 2024](https://img.shields.io/badge/ORCA_Q1_2024-Coming_Soon-CCFF00?style=for-the-badge)](https://github.com/zax0s/ORCA)
