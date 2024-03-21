@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="YOUR_LOGO_URL" alt="ENHANCE Logo" width="200"/>
+  <img src="https://github.com/QIMP-Team/.github/blob/main/profile/EANM-ENHANCE-PET-Reveal.gif" alt="ENHANCE Logo"/>
 </p>
 
 <h1 align="center">ENHANCE: Total-Body PET Imaging Initiative</h1>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-purple.svg" alt="License GPLv3"></a>
   <a href="https://enhance-pet.github.io"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"></a>
-  <a href="https://github.com/enhance-pet/enhance/actions"><img src="https://github.com/enhance-pet/enhance/workflows/CI/badge.svg" alt="CI Status"></a>
-  <!-- Add more badges here: CI status, coverage, etc. -->
 </p>
 
 ## 🥼 About Us
@@ -34,23 +32,33 @@ The primary objectives of the ENHANCE platform are to:
 
 To get started with ENHANCE, follow these steps:
 
-1. Visit our [website](https://enhance-pet.github.io) to learn more about our project.
+1. Visit our [website](https://enhance.pet) to learn more about our project.
 2. Check out the [ENHANCE GitHub repository](https://github.com/enhance-pet) for access to our open-source tools and datasets.
-3. Join our community [forum/discussion board] to connect with fellow PET imaging professionals.
 
-## 📚 Resources
+## 📅 Timeline
 
-- [Documentation](LINK_TO_DOCUMENTATION)
-- [Tutorials](LINK_TO_TUTORIALS)
-- [FAQs](LINK_TO_FAQ)
+### Published Tools
+
+[![MOOSE](https://img.shields.io/badge/MOOSE-Published-FFD700?style=for-the-badge)](https://github.com/QIMP-Team/MOOSE)
+[![FALCON](https://img.shields.io/badge/FALCON-Published-32CD32?style=for-the-badge)](https://github.com/QIMP-Team/FALCON)
+[![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Published-8A36AF?style=for-the-badge)](https://github.com/LalithShiyam/nifti2dicom)
+
+### Upcoming Tools
+
+[![PUMA Q1 2024](https://img.shields.io/badge/PUMA_Q1_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
+[![ORCA Q1 2024](https://img.shields.io/badge/ORCA_Q1_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/zax0s/ORCA)
+[![LION Q2 2024](https://img.shields.io/badge/LION_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/LION)
+[![OCELOT Q2 2024](https://img.shields.io/badge/OCELOT_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/Keyn34/OCELOT)
+[![ALPACA Q2 2024](https://img.shields.io/badge/ALPACA_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/ALPACA)
+[![PIGEON Q3 2024](https://img.shields.io/badge/PIGEON_Q3_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/PIGEON)
+
 
 ## 💬 Get Involved
 
 We welcome contributions from the community. Here's how you can help:
 
 - **Contribute to our codebase:** See our [contribution guidelines](CONTRIBUTING.md).
-- **Share datasets:** If you have datasets you're willing to share, please contact us.
-- **Participate in discussions:** Join our [forum/discussion board] to share insights and ask questions.
+- **Share datasets:** If you have datasets you're willing to share, please contact [us](mailto:hello@enhance.pet).
 
 ## 📣 Stay Updated
 
@@ -59,8 +67,8 @@ We welcome contributions from the community. Here's how you can help:
 
 ## 📩 Contact Us
 
-For general inquiries, please contact us at [email@enhance-pet.com](mailto:email@enhance-pet.com).
+For general inquiries, please contact us at [hello@enhance.pet](mailto:hello@enhance.pet).
 
 ---
 
-<p align="center">© 2024 ENHANCE Initiative. Empowering PET Imaging Innovation.</p>
+<p align="center">© 2024 ENHANCE-PET Initiative. Empowering PET Imaging Innovation.</p>
