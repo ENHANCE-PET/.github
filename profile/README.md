@@ -5,9 +5,10 @@
 <h1 align="center">ENHANCE: Total-Body PET Imaging Initiative</h1>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-purple.svg" alt="License GPLv3"></a>
-  <a href="https://enhance-pet.github.io"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-purple.svg?style=for-the-badge" alt="License GPLv3"></a>
+  <a href="https://enhance.pet"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge" alt="Website"></a>
 </p>
+
 
 ## 🥼 About Us
 
