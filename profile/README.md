@@ -45,12 +45,12 @@ To get started with ENHANCE, follow these steps:
 
 ### Upcoming Tools
 
-[![PUMA Q1 2024](https://img.shields.io/badge/PUMA_Q1_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
-[![ORCA Q1 2024](https://img.shields.io/badge/ORCA_Q1_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/zax0s/ORCA)
-[![LION Q2 2024](https://img.shields.io/badge/LION_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/LION)
-[![OCELOT Q2 2024](https://img.shields.io/badge/OCELOT_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/Keyn34/OCELOT)
-[![ALPACA Q2 2024](https://img.shields.io/badge/ALPACA_Q2_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/ALPACA)
-[![PIGEON Q3 2024](https://img.shields.io/badge/PIGEON_Q3_2024-Coming_Soon-FF4500?style=for-the-badge)](https://github.com/LalithShiyam/PIGEON)
+[![PUMA Q1 2024](https://img.shields.io/badge/PUMA_Q1_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
+[![ORCA Q1 2024](https://img.shields.io/badge/ORCA_Q1_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/zax0s/ORCA)
+[![LION Q2 2024](https://img.shields.io/badge/LION_Q2_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/LalithShiyam/LION)
+[![OCELOT Q2 2024](https://img.shields.io/badge/OCELOT_Q2_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/Keyn34/OCELOT)
+[![ALPACA Q2 2024](https://img.shields.io/badge/ALPACA_Q2_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/LalithShiyam/ALPACA)
+[![PIGEON Q3 2024](https://img.shields.io/badge/PIGEON_Q3_2024-Coming_Soon-FF69B4?style=for-the-badge)](https://github.com/LalithShiyam/PIGEON)
 
 
 ## 💬 Get Involved
