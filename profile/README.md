@@ -1,37 +1,66 @@
-## 🤗 Welcome to the QIMP-Team! 
 <p align="center">
-<img src=https://github.com/QIMP-Team/.github/blob/main/profile/IMG_5948.jpg width="auto">
+  <img src="YOUR_LOGO_URL" alt="ENHANCE Logo" width="200"/>
 </p>
 
-## 🥼 About us
-“Quantitative Imaging and Medical Physics” (QIMP) was founded in 2013. The group is associated with a full professorship for “Physics of Medical Imaging – Hybrid Imaging” at the Med Uni Vienna.
-
-The group comprises of a variety of academic and non-academic experts who are united by the intent to provide scientific support to improving healthcare for patients. We are engaged in applied research that helps to clinically anchor the concept of personalized medicine through the use of multi-modal imaging methods.
-
-## 📢 Announcement
-
-Something incredible cool is brewing in Vienna, watch out this space for more.
+<h1 align="center">ENHANCE: Total-Body PET Imaging Initiative</h1>
 
 <p align="center">
-<img src=https://github.com/QIMP-Team/.github/blob/main/profile/danube-surprise.png width="auto">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT"></a>
+  <a href="https://enhance-pet.github.io"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Website"></a>
+  <a href="https://github.com/enhance-pet/enhance/actions"><img src="https://github.com/enhance-pet/enhance/workflows/CI/badge.svg" alt="CI Status"></a>
+  <!-- Add more badges here: CI status, coverage, etc. -->
 </p>
 
-## 🔭 Our Vision 
-To enable a wider adoption of fully-quantitative molecular image information in the context of personalized medicine.
+## 🥼 About Us
 
-## 🚀 Our Mission
-Advancement of basic correction and quality measures to facilitate the extraction of information and knowledge from clinical images and non-imaging information. We engage in translational research through local and international collaborations and source knowledge from multiple disciplines, including medicine, pharmacology and radiochemistry. We believe in a synergistic ‘Physician + artificial intelligence’ approach to further increase our understanding of diseases and help support clinical decision making. In particular, we focus on the novel total-body PET to probe whole-person research.
+**ENHANCE** (Enabling New Horizons for Advanced Networking, Code-sharing, and Education in Total-Body PET Imaging) is a pioneering initiative dedicated to empowering the global PET imaging community. We strive to foster collaboration, drive innovation, and facilitate learning through a robust platform that connects researchers, clinicians, and industry professionals. Together, we're shaping the future of PET imaging for improved diagnostics and patient care.
 
-## 🔬 Our research interests
+## 🔭 Our Vision
 
-Exploring the landscape of human inter-organ connections using PET.
+The primary objectives of the ENHANCE platform are to:
 
-<p align="center">
-<img src=https://github.com/QIMP-Team/.github/blob/main/profile/DALL·E%202022-11-08%2014.59.41%20-%20sky.png width="auto">
-</p>
+- Facilitate the sharing of open-source tools.
+- Provide access to high-quality total-body PET datasets.
+- Offer educational resources that foster interdisciplinary collaboration.
+- Accelerate research and promote innovation in the field of PET imaging.
 
-## 🤝🏽 Reach us
-[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/quantitative-imaging-and-medical-physics-team/) 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/qimp/) 
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qimp_team/?igshid=YmMyMTA2M2Y=)
+## 🌟 Why ENHANCE?
 
+- **Collaboration:** We bring together experts from diverse backgrounds to tackle the challenges in PET imaging.
+- **Innovation:** Access to shared resources and datasets sparks creativity and leads to groundbreaking advancements.
+- **Education:** Our platform serves as a knowledge hub, offering learning materials and workshops to nurture expertise in PET imaging.
+
+## 🛠️ Getting Started
+
+To get started with ENHANCE, follow these steps:
+
+1. Visit our [website](https://enhance-pet.github.io) to learn more about our project.
+2. Check out the [ENHANCE GitHub repository](https://github.com/enhance-pet) for access to our open-source tools and datasets.
+3. Join our community [forum/discussion board] to connect with fellow PET imaging professionals.
+
+## 📚 Resources
+
+- [Documentation](LINK_TO_DOCUMENTATION)
+- [Tutorials](LINK_TO_TUTORIALS)
+- [FAQs](LINK_TO_FAQ)
+
+## 💬 Get Involved
+
+We welcome contributions from the community. Here's how you can help:
+
+- **Contribute to our codebase:** See our [contribution guidelines](CONTRIBUTING.md).
+- **Share datasets:** If you have datasets you're willing to share, please contact us.
+- **Participate in discussions:** Join our [forum/discussion board] to share insights and ask questions.
+
+## 📣 Stay Updated
+
+- Follow us on [Twitter](YOUR_TWITTER_LINK)
+- Subscribe to our [newsletter](LINK_TO_NEWSLETTER)
+
+## 📩 Contact Us
+
+For general inquiries, please contact us at [email@enhance-pet.com](mailto:email@enhance-pet.com).
+
+---
+
+<p align="center">© 2024 ENHANCE Initiative. Empowering PET Imaging Innovation.</p>
