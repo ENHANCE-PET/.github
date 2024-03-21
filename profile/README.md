@@ -39,8 +39,8 @@ To get started with ENHANCE, follow these steps:
 
 ### Published Tools
 
-[![MOOSE](https://img.shields.io/badge/MOOSE-Published-FFD700?style=for-the-badge)](https://github.com/ENHANCE-PET/MOOSE)
-[![FALCON](https://img.shields.io/badge/FALCON-Published-32CD32?style=for-the-badge)](https://github.com/ENHANCE-PET/FALCON)
+[![MOOSE](https://img.shields.io/badge/MOOSE-Published-8A36AF?style=for-the-badge)](https://github.com/ENHANCE-PET/MOOSE)
+[![FALCON](https://img.shields.io/badge/FALCON-Published-8A36AF?style=for-the-badge)](https://github.com/ENHANCE-PET/FALCON)
 [![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Published-8A36AF?style=for-the-badge)](https://github.com/ENHANCE-PET/nifti2dicom)
 
 ### Upcoming Tools
