@@ -10,6 +10,7 @@
 </p>
 
 
+
 ## 🥼 About Us
 
 **ENHANCE** (Enabling New Horizons for Advanced Networking, Code-sharing, and Education in Total-Body PET Imaging) is a pioneering initiative dedicated to empowering the global PET imaging community. We strive to foster collaboration, drive innovation, and facilitate learning through a robust platform that connects researchers, clinicians, and industry professionals. Together, we're shaping the future of PET imaging for improved diagnostics and patient care.
