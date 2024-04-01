@@ -65,8 +65,7 @@ We welcome contributions from the community. Here's how you can help:
 
 ## 📣 Stay Updated
 
-- Follow us on [Twitter](YOUR_TWITTER_LINK)
-- Subscribe to our [newsletter](LINK_TO_NEWSLETTER)
+- Follow us on [linkedIn](https://www.linkedin.com/company/enhance-pet/)
 
 ## 📩 Contact Us
 
