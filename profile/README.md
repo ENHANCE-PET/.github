@@ -45,10 +45,11 @@ To get started with ENHANCE, follow these steps:
 [![MOOSE](https://img.shields.io/badge/MOOSE-Published-5E57FF?style=for-the-badge)](https://github.com/ENHANCE-PET/MOOSE)
 [![FALCON](https://img.shields.io/badge/FALCON-Published-5E57FF?style=for-the-badge)](https://github.com/ENHANCE-PET/FALCON)
 [![NIFTI2DICOM](https://img.shields.io/badge/NIFTI2DICOM-Published-5E57FF?style=for-the-badge)](https://github.com/ENHANCE-PET/nifti2dicom)
+[![PUMA](https://img.shields.io/badge/PUMA-Published-5E57FF?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
+
 
 ### 🚧 Upcoming Tools
 
-[![PUMA Q1 2024](https://img.shields.io/badge/PUMA_Q1_2024-Coming_Soon-FF2079?style=for-the-badge)](https://github.com/LalithShiyam/PUMA)
 [![ORCA Q1 2024](https://img.shields.io/badge/ORCA_Q1_2024-Coming_Soon-FF2079?style=for-the-badge)](https://github.com/zax0s/ORCA)
 [![LION Q2 2024](https://img.shields.io/badge/LION_Q2_2024-Coming_Soon-FF2079?style=for-the-badge)](https://github.com/LalithShiyam/LION)
 [![OCELOT Q2 2024](https://img.shields.io/badge/OCELOT_Q2_2024-Coming_Soon-FF2079?style=for-the-badge)](https://github.com/Keyn34/OCELOT)
